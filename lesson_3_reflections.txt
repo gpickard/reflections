@@ -4,4 +4,8 @@ When you want a backup of your all your work for sure or when using a companys r
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 When you want to work with different versions of a file but not disturb the original.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork makes a copy only in Githyb. Clone makes a copy from one repository to another local or from remote. Branch creates a branch from an existing file.
+
+
 
