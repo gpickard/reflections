@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+It sets that folder as a repository.
+You need to do it to be able to work with Git on it.
+
