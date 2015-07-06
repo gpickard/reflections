@@ -11,4 +11,6 @@ By checking status on it to see what has been added and make sure it only contai
 How do the diagrams help you visualize the branch structure?
 They show which commits are on each branch and which are unreachable.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+They become one with all the changes that have been added to the 2 branchs. To more easi;y understand how the merge works.
 
